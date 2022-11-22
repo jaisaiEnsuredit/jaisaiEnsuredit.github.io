@@ -1,6 +1,10 @@
 ()=>{
     window.console.log(11111);
     try{
+    console.log("asdfasdf");
+       alert("asdfasdf")
+    }catch{}
+    try{
         if (typeof window !== "undefined") {
             if(document){
             
